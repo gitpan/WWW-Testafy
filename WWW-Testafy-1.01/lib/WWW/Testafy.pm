@@ -3,7 +3,7 @@ package WWW::Testafy;
 use strict;
 use warnings;
 
-our $VERSION = 1.00;
+our $VERSION = 1.01;
 
 # Copyright 2012 Grant Street Group
 
